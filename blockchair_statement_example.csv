@@ -1,0 +1,13 @@
+"Wallet statement"
+"Address count with BTC balance:";9
+"Starting balance 2016-01-01";0,0046975;BTC;1,97;USD
+"Ending balance 2016-12-31";0,00622801;BTC;5,97;USD
+"Total received";0,00169285;BTC
+"Total sent";0,00016234;BTC
+
+"Start period";2016-01-01
+"End period";2016-12-31
+"Transactions involving the addresses:"
+"Tx number";"Affected address/xpub";Effect;Ticker;"Amount fiat (USD)";"Asset rate (USD)";Date;"Transaction hash"
+1;xpub6BfKpq...AC7YtodwUR;0,00169285;BTC;1,01;595,04;"2016-08-09 20:28:34";0b86ab8d3acda4fb50d0cf411daa27f3acc7bedb6de51a1f61ec78046249d8f1
+2;xpub6BfKpq...AC7YtodwUR;-0,00016234;BTC;-0,07;419,64;"2016-04-10 06:20:51";557c7bca7f74799829f71092aeb116f2cc833636425cfd90b3d0ec3b93580db9
